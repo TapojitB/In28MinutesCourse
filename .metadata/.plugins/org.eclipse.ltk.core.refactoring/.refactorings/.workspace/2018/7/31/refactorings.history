@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;spring-cloud-sleuth-zipkin-server&apos;" deleteContents="true" description="Delete resource &apos;spring-cloud-sleuth-zipkin-server&apos;" element1="/spring-cloud-sleuth-zipkin-server" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1532864775531"/>
+</session>

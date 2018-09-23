@@ -1,0 +1,4 @@
+1530968055268	Rename package 'com.example.demo'
+1530980518172	Encapsulate field 'port'
+1530980567044	Extract local variable 'exchangeValue'
+1530985572694	Rename type 'UserRepository'

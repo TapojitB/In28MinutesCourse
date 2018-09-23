@@ -1,0 +1,3 @@
+1531036282915	Rename type 'CurrencyExchangeController'
+1531039975638	Extract method 'invokeCurrencyExchangeService'
+1531052354004	Rename method 'retrieveExchangeValue'

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 4 resources" deleteContents="true" description="Delete 4 resources" element1="/gs-accessing-data-jpa-complete" element2="/gs-accessing-data-jpa-initial" element3="/gs-accessing-data-mongodb-complete" element4="/gs-accessing-data-mongodb-initial" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="4" stamp="1530944790270"/>
+</session>
